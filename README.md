@@ -9,19 +9,15 @@ In order to meet standards for accessibility, alt tags and aria labels were adde
 
 To meet standards for semantics, repetitive code was condensed, unneccessary classes were removed, divs were changed to elements such as sections, articles, headers, navs, and footers, and comments were added to the CSS to describe styling pieces.
 
+View the deployed application here: https://jeanarose.github.io/horiseon-code-refactor/
+
 ## Horiseon
 
 ![Screenshot of Horiseon webpage.](assets/images/screenshot.png)
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-```md
-![alt text](assets/images/screenshot.png)
-```
+Horiseon can be used to increase traffic to your site through SEO.
 
 
 ## Credits
