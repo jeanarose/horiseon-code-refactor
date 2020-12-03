@@ -3,7 +3,7 @@
 
 ## Description 
 
-The code for [Horiseon](https://jeanarose.github.io/horiseon-code-refactor/), a search engine optimization service, was refactored to be more accessible and follow proper semantics. It is important that the code to Horiseon be accessible to people of all abilities from the user face and easy for developers to edit and understand.
+The code for [Horiseon](https://jeanarose.github.io/horiseon-code-refactor/), a search engine optimization (SEO) service, was refactored to be more accessible and follow proper semantics. It is important that the code to Horiseon be accessible to people of all abilities from the user face and easy for developers to edit and understand. Considering this is also a site for SEO, the code should be representative of Horiseon's expertise in the field by optimizing search engines within their own website.
 
 In order to meet standards for accessibility, alt tags and aria labels were added to all images to ensure that consumers using screen readers will be able to fully comprehend the contents on the page. 
 
