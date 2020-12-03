@@ -1,4 +1,4 @@
-# Horiseon Code Refactor
+# Marketing Web Accessibliity
 [![GitHub license](https://img.shields.io/github/license/jeanarose/horiseon-code-refactor)](https://github.com/jeanarose/horiseon-code-refactor)
 
 ## Description 
