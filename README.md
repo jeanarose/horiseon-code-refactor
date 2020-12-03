@@ -5,7 +5,7 @@
 
 The code for [Horiseon](https://jeanarose.github.io/horiseon-code-refactor/), a search engine optimization (SEO) service, was refactored to be more accessible and follow proper semantics. It is important that the code to Horiseon be accessible to people of all abilities from the user face and easy for developers to edit and understand. Considering this is also a site for SEO, the code should be representative of Horiseon's expertise in the field by optimizing search engines within their own website.
 
-In order to meet standards for accessibility, alt tags and aria labels were added to all images to ensure that consumers using screen readers will be able to fully comprehend the contents on the page. 
+In order to meet standards for accessibility, alt tags and aria labels were added to all images to ensure that consumers using screen readers will be able to fully comprehend the contents on the page. Each section of code was organized in a meaningful sequence as well.
 
 To meet standards for semantics, repetitive code was condensed, unneccessary classes were removed, divs were changed to elements such as sections, articles, headers, navs, and footers, and comments were added to the CSS to describe styling pieces.
 
@@ -26,14 +26,9 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
 [Semantic HTML | Codecademy](https://www.codecademy.com/learn/learn-html/modules/learn-semantic-html)
 
+[How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=132)
 
 ## License
 
