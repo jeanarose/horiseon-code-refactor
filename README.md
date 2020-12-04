@@ -54,7 +54,8 @@ SOFTWARE.
 
 Interested in testing for Horiseon? 
 
-Check to see that the links at the top of the page are working properly. When clicked, the links should direct the user to the corresponding section of the page.
+1. Check to see that the links at the top of the page are working properly. When clicked, the links should direct the user to the corresponding section of the page.
+2. Use a screen reader to ensure that all images have an alternative text.
 
 ---
 
